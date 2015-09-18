@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstMySQLdb</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="instruction_name_to_search">Type name to search:</string>
+    <string name="button_search_for_contact">Search for contact</string>
+    <string name="button_show_all_contacts">Show all contacts</string>
+    <string name="button_add_contact">Add Contact</string>
+    <string name="label_name">Name:</string>
+    <string name="label_phone_number">Phone:</string>
+</resources>
